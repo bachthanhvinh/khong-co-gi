@@ -1,1 +1,4 @@
-# khong-co-gi
+# include "stdio.h"
+int main(){
+printf("Hello,word!");
+}
